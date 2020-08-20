@@ -24,7 +24,7 @@ frontend I will use
 - Django 3.1
 
 Then clone the git repo:
-``git clone `https://github.com/mbrsagor/djAuth/tree/master`
+`git clone https://github.com/mbrsagor/djAuth/tree/master`
 After that create and active a virtualenv in your project director. Then please follow the command line.
 
 `````angular2html
