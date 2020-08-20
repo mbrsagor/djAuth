@@ -4,11 +4,8 @@
 
 
 When I started new `Django` web development I was fetch same kind of problems. That's why I have decided to the app 
-for django beginner label developer will benefit nothing else.
-.In this 
-project 
-frontend I will use 
-`Bootstrap framework`.
+for Django beginner label developer will favor. In this project frontend I will use `Bootstrap framework`. If you 
+like the topic, I will make more.
 
 ###### Features and functionality:
 
@@ -28,6 +25,7 @@ Then clone the git repo:
 After that create and active a virtualenv in your project director. Then please follow the command line.
 
 `````angular2html
+cd djAuth
 virtualenv venv --python=python3.8.5
 source venv/bin/activate
 pip install -r requirements.txt
