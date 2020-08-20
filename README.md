@@ -1,8 +1,12 @@
 # DjAuth
 
-> Basically the project for `Django` beginner developer for a basic authentication system.
+> Basically the project for `Django` beginner developer for a basic authentication system. 
+
+
+When I started new `Django` web development I was fetch same kind of problems.In this project frontend I will use `Bootstrap framework`.
 
 ###### Features and functionality:
+
 - Login
 - Logout
 - Registration

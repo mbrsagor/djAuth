@@ -25,6 +25,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 ]
 
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'  # During development only
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
