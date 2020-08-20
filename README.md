@@ -3,7 +3,12 @@
 > Basically the project for `Django` beginner developer for a basic authentication system. 
 
 
-When I started new `Django` web development I was fetch same kind of problems.In this project frontend I will use `Bootstrap framework`.
+When I started new `Django` web development I was fetch same kind of problems. That's why I have decided to the app 
+for django beginner label developer will benefit nothing else.
+.In this 
+project 
+frontend I will use 
+`Bootstrap framework`.
 
 ###### Features and functionality:
 
@@ -34,6 +39,9 @@ Hopefully it will be work :)
 
 
 ### Sample output
+
+###### User Registration
+![](https://res.cloudinary.com/mbrsagor/image/upload/v1597913393/auth/Screenshot_2020-08-20_at_2.47.29_PM_lf01tx.png)
 
 ###### Login page
 ![](https://res.cloudinary.com/mbrsagor/image/upload/v1597911032/auth/Screenshot_2020-08-20_at_2.10.01_PM_ew9cyf.png)
