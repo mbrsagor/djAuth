@@ -115,6 +115,6 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 # SMTP Config
 EMAIL_HOST = 'smtp.sendgrid.net'
 EMAIL_PORT = 587
-EMAIL_HOST_PASSWORD = 'admin@2018'
+EMAIL_HOST_PASSWORD = 'your_password'
 EMAIL_USE_TLS = True
-DEFAULT_FROM_EMAIL = 'TestSite Team <mbrsagor@gmail.com>'
+DEFAULT_FROM_EMAIL = 'TestSite Team <your_mail@gmail.com>'

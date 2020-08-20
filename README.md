@@ -31,3 +31,27 @@ pip install -r requirements.txt
 `````
 
 Hopefully it will be work :)
+
+
+### Sample output
+
+###### Login page
+![](https://res.cloudinary.com/mbrsagor/image/upload/v1597911032/auth/Screenshot_2020-08-20_at_2.10.01_PM_ew9cyf.png)
+
+
+###### Forgot password send mail
+![](https://res.cloudinary.com/mbrsagor/image/upload/v1597910774/auth/Screenshot_2020-08-20_at_1.28.31_PM_mvk2wb.png)
+
+
+###### send mail link
+![](https://res.cloudinary.com/mbrsagor/image/upload/v1597910774/auth/Screenshot_2020-08-20_at_1.29.12_PM_tkmoxs.png)
+
+###### Change password
+![](https://res.cloudinary.com/mbrsagor/image/upload/v1597910774/auth/Screenshot_2020-08-20_at_1.47.34_PM_i6o4eu.png)
+
+
+###### Login redirect
+![](https://res.cloudinary.com/mbrsagor/image/upload/v1597910774/auth/Screenshot_2020-08-20_at_1.47.50_PM_uc6wjc.png)
+
+###### Profile page
+![](https://res.cloudinary.com/mbrsagor/image/upload/v1597910775/auth/Screenshot_2020-08-20_at_2.01.02_PM_awgp8n.png)
